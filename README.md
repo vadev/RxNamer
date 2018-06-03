@@ -13,4 +13,4 @@ Use CocoaPods with Podfile:
 # pod install 
 
 Run this simple app and see the magic of RxSwift & RxCocoa. 
-
+![alt text](https://github.com/vadev/RxNamer/blob/master/IMG_1779.gif)
