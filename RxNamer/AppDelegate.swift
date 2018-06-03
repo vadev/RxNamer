@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  RxNamer
 //
-//  Created by Vartan Arzumanyan on 6/2/18.
-//  Copyright © 2018 Vartan Arzumanyan. All rights reserved.
+//  Created by Vartan on 6/2/18.
+//  Copyright © 2018 Vartan. All rights reserved.
 //
 
 import UIKit
